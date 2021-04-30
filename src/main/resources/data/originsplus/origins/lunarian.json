@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"originsplus:",
+		"originsplus:",
+		"originsplus:",
+		"originsplus:",
+	],
+	"icon": {
+		"item": "minecraft:end_stone"
+	},
+	"order": 0,
+	"impact": 2
+}
