@@ -1,0 +1,35 @@
+{
+  "type": "origins:conditioned_attribute",
+  "modifiers": [
+      {
+      "attribute": "generic.regeneration",
+      "operation": "addition",
+      "value": 2.0,
+      "name": "full moon lunarian bonus"
+    },
+    {
+      "attribute": "generic.max_health",
+      "operation": "addition",
+      "value": 5.0,
+      "name": "full moon lunarian bonus"
+    },
+    {
+      "attribute": "generic.attack_damage",
+      "operation": "addition",
+      "value": 2.0,
+      "name": "full moon lunarian bonus"
+    }
+  ],
+  "condition": {
+    "type": "origins:and",
+    "conditions": [
+      {
+        "type": "origins:daytime",
+        "inverted": true
+      },
+      {
+        "type": "originsplus:is_full_moon"
+      }
+    ]
+  }
+}
