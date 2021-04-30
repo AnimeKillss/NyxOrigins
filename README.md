@@ -8,7 +8,7 @@
 
 <h1>—————Planned-Features—————</h1>
 
-#Lunarian
+<h2>Lunarian</h2>
 <p>🟢</p>
 <p>🟢</p>
 <p>🔴</p>
