@@ -1,9 +1,7 @@
 {
 	"powers": [
-		"originsplus:",
-		"originsplus:",
-		"originsplus:",
-		"originsplus:",
+		"originsplus:full_moon",
+		"originsplus:lunar_vision"
 	],
 	"icon": {
 		"item": "minecraft:end_stone"
