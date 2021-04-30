@@ -3,7 +3,7 @@
   "cooldown": 30,
   "hud_render": {
     "sprite_location": "originsplus:textures/gui/ability_bars.png",
-    "bar_index": 1
+    "bar_index": 4
   },
   "entity_type": "origins:lunarian_pearl",
   "sound": "minecraft:entity.ender_pearl.throw",
