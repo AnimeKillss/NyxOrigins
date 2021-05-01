@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "extraorigins",
+  "id": "originsplus",
   "version": "${version}",
   "name": "OriginsPlus",
   "description": "Adds more origins to the Origins mod",
