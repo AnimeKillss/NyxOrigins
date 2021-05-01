@@ -9,6 +9,10 @@
   "power.originsplus.lunar_vision.description": "You can slightly see in the dark when not in water.",
 
   "power.originsplus.pearl_thorw.name": "Teleportation",
-  "power.originsplus.pearl_throw.description": "Use Ender Pearls to teleport even without having them in your inventory."
+  "power.originsplus.pearl_throw.description": "Use Ender Pearls to teleport even without having them in your inventory.",
+  
+  "power.originsplus.titan_transform.name": "Transformation",
+  "power.originsplus.titan_transform.description": "Transform from Human to Titan and gain powerful abilties."
+
   
 }
