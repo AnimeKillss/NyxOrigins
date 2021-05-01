@@ -3,20 +3,45 @@
   "entity_action": {
     "type": "origins:if_else",
     "condition": {
-      "type": "origins:resource"
+  "type": "origins:resource",
+  "resource": "originsplus:titan_state",
+  "comparison": "=",
+  "compare_to": 1
     },
     "if_action": {
-      "type": "origins:reform"
+"type": "origins:and",
+    "actions": [
+      {
+        "type": "origins:reform"
+      },
+      {
+  "type": "origins:change_resource",
+  "resource": "originsplus:titan_state",
+  "change": 1
+      }
+    ]
+  }
     },
     "else_action": {
-      "type": "origins:transform",
-      "duration": 3600
-    }
+"type": "origins:and",
+    "actions": [
+      {
+        "type": "origins:transform"
+      },
+      {
+  "type": "origins:change_resource",
+  "resource": "originsplus:titan_state",
+  "change": 0
+      }
+    ]
   },
+      "duration": 3600
+  
+  ,
   "cooldown": 12000,
   "hud_render": {
     "sprite_location": "originsplus:textures/gui/ability_bars.png",
     "bar_index": 2
     }
-  }
+  
 }
