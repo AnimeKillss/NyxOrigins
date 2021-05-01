@@ -1,0 +1,20 @@
+{
+  "type": "origins:active_self",
+  "entity_action": {
+    "type": "origins:if_else",
+    "condition": {
+      // if already a giant
+    },
+    "if_action": {
+      "type": "origins:reform"
+    },
+    "else_action": {
+      "type": "origins:transform",
+      "duration": 3600
+    }
+  },
+  "cooldown": 12000,
+  "hud_render": {
+    "should_render": false
+  }
+}
