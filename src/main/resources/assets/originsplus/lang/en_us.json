@@ -11,6 +11,9 @@
   "power.originsplus.pearl_thorw.name": "Teleportation",
   "power.originsplus.pearl_throw.description": "Use Ender Pearls to teleport even without having them in your inventory.",
   
+  "origin.originsplus.titan.name": "Titan",
+  "origin.originsplus.titan.description": "Descendants of an ancient species of humanoid, you posses great powers when in your true form.",
+  
   "power.originsplus.titan_transform.name": "Transformation",
   "power.originsplus.titan_transform.description": "Transform from Human to Titan and gain powerful abilties."
 
