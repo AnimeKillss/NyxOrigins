@@ -17,7 +17,12 @@
       {
   "type": "origins:change_resource",
   "resource": "originsplus:titan_state",
-  "change": 1
+  "change": -1
+      },
+      {
+      "type": "origins:execute_command",
+      "command": "scale set 3 @s",
+      "permission_level": 4
       }
     ]
   }
@@ -31,7 +36,12 @@
       {
   "type": "origins:change_resource",
   "resource": "originsplus:titan_state",
-  "change": 0
+  "change": 1
+      },
+      {
+      "type": "origins:execute_command",
+      "command": "scale reset @s",
+      "permission_level": 4
       }
     ]
   },
