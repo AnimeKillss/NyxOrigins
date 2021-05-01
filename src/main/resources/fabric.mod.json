@@ -5,7 +5,8 @@
   "name": "OriginsPlus",
   "description": "Adds more origins to the Origins mod",
   "authors": [
-	"Vanthanyx"
+	"Vanthanyx",
+    "ChiliLeaf"
   ],
   "contact": {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/originsplus",
@@ -13,19 +14,12 @@
   },
   "license": "MIT",
   "icon": "assets/originsplus/icon.png",
-  "environment": "*",
-  "entrypoints": {
-	"main": [
-	  ""
-	]
+  "environment": "*"
   },
-  "mixins": [
-	"originsplus.mixins.json"
-  ],
   "depends": {
 	"fabricloader": ">=0.11.3",
 	"fabric": "*",
 	"minecraft": "1.16.5",
-	"origins": ">=0.7.0",
+	"origins": ">=0.7.0"
   }
 }
