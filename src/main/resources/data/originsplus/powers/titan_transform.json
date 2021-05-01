@@ -3,7 +3,7 @@
   "entity_action": {
     "type": "origins:if_else",
     "condition": {
-      // if already a giant
+      "type": "origins:resource"
     },
     "if_action": {
       "type": "origins:reform"
@@ -15,6 +15,8 @@
   },
   "cooldown": 12000,
   "hud_render": {
-    "should_render": false
+    "sprite_location": "originsplus:textures/gui/ability_bars.png"
+    "bar_index": 2
+    }
   }
 }
