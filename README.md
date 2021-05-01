@@ -21,3 +21,10 @@ Also Requires [Pehkui](https://www.curseforge.com/minecraft/mc-mods/pehkui)
 <p>🟢</p>
 <p>🔴</p>
 <p>🔴</p>
+
+<h2>Titan</h2>
+<p>Descendants of an ancient species of humanoid, posses great powers when in your true form.</p>
+<p>🟢 Bid Muscles: Deal 2x As Much Damage When In Titan form.</p>
+<p>🟢</p>
+<p>🔴</p>
+<p>🔴</p>
