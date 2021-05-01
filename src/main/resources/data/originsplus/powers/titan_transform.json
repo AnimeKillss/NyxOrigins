@@ -15,7 +15,7 @@
   },
   "cooldown": 12000,
   "hud_render": {
-    "sprite_location": "originsplus:textures/gui/ability_bars.png"
+    "sprite_location": "originsplus:textures/gui/ability_bars.png",
     "bar_index": 2
     }
   }
