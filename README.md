@@ -7,6 +7,14 @@
 <h1>—————Planned-Features—————</h1>
 
 <h2>Lunarian</h2>
+<p>Born from the energy of creation, your powers are immense, yet mysterious.</p>
+<p>🟢 Teleportation: Use Ender Pearls to teleport even without having them in your inventory.</p>
+<p>🟢 Lunar Magic: During a full moon, hostile mobs are neutral and you have strength as well as regeneration and a health boost.</p>
+<p>🟢 Nocturnal: You can slightly see in the dark when not in water.</p>
+<p>🔴</p>
+<p>🔴</p>
+
+<h2>Solarian</h2>
 <p>🟢</p>
 <p>🟢</p>
 <p>🔴</p>
