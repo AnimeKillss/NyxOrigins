@@ -1,7 +1,7 @@
 {
 	"powers": [
-		"originsplus:full_moon",
-		"originsplus:lunar_vision"
+		"nyxorigins:full_moon",
+		"nyxorigins:lunar_vision"
 	],
 	"icon": {
 		"item": "minecraft:end_stone"
