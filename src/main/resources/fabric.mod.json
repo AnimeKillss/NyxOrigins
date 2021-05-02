@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "id": "originsplus",
+  "id": "nyxorigins",
   "version": "${version}",
-  "name": "OriginsPlus",
+  "name": "NyxOrigins",
   "description": "Adds more origins to the Origins mod",
   "authors": [
 	"Vanthanyx",
@@ -10,10 +10,10 @@
   ],
   "contact": {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/originsplus",
-	"sources": "https://github.com/Vanthanyx/OriginsPlus"
+	"sources": "https://github.com/Vanthanyx/NyxOrigins"
   },
   "license": "MIT",
-  "icon": "assets/originsplus/icon.png",
+  "icon": "assets/nyxorigins/icon.png",
   "environment": "*"
   },
   "depends": {
