@@ -17,11 +17,11 @@ Also Requires [Pehkui](https://www.curseforge.com/minecraft/mc-mods/pehkui)
 <p>🔴</p>
 
 <h2>Solarian</h2>
-<p>🟢</p> Gift Of Shine: Makes a faint light that shines around you.</p>
-<p>🟢</p> Suns Blessing: Gives regeneration effect during mid-day.</p>
-<p>🟢</p> The Suns Blaze: The ability to create a fire at the cost of hunger.</p>
-<p>🔴</p> The Suns Departure: Gives slowness effect to you during midnight.</p>
-<p>🔴</p> The Need For The Sun: You get hungrier quicker while in dark places.</p>
+<p>🟢 Gift Of Shine: Makes a faint light that shines around you.</p>
+<p>🟢 Suns Blessing: Gives regeneration effect during mid-day.</p>
+<p>🟢 The Suns Blaze: The ability to create a fire at the cost of hunger.</p>
+<p>🔴 The Suns Departure: Gives slowness effect to you during midnight.</p>
+<p>🔴 The Need For The Sun: You get hungrier quicker while in dark places.</p>
 
 <h2>Titan</h2>
 <p>Descendants of an ancient species of humanoid, posses great powers when in your true form.</p>
