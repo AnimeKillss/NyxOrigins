@@ -20,10 +20,11 @@ Also Requires [Pehkui](https://www.curseforge.com/minecraft/mc-mods/pehkui)
 
 <h2>Solarian</h2>
 <p>Born from the energy of destruction, (...)</p>
-<p>🟢</p>
-<p>🟢</p>
-<p>🔴</p>
-<p>🔴</p>
+<p>🟢 Gift Of Shine: Makes a faint light that shines around you.</p>
+<p>🟢 Suns Blessing: Gives regeneration effect during mid-day.</p>
+<p>🟢 The Suns Blaze: The ability to create a fire at the cost of hunger.</p>
+<p>🔴 The Suns Departure: Gives slowness effect to you during midnight.</p>
+<p>🔴 The Need For The Sun: You get hungrier quicker while in dark places.</p>
 
 <h2>Titan</h2>
 <p>Descendants of an ancient species of humanoid, posses great powers when in your true form.</p>
