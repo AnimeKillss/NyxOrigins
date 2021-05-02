@@ -1,7 +1,7 @@
 {
     "powers": [
-        "originsplus:titan_transform"
-        "originsplus:titan_state"
+        "myxorigins:titan_transform"
+        "nyxorigins:titan_state"
     ],
     "icon": {
         "item": "minecraft:bonemeal"
