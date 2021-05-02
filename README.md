@@ -1,3 +1,5 @@
+<h1>⚠README.md Not Up To Date!⚠</h1>
+
 <p>&nbsp;</p>
 <p><strong><a href="https://www.curseforge.com/minecraft/mc-mods/origins"><img src="https://media.discordapp.net/attachments/817078792463187988/831319512464490496/origins_badge.png" alt="Requires Origins" width="358" height="120" /></a> <a href="https://www.curseforge.com/minecraft/mc-mods/fabric-api"><img src="https://i.imgur.com/HabVZJR.png" alt="Requires Fabric API" width="358" height="120" /></a></strong></p>
 <p>&nbsp;</p>
@@ -24,7 +26,7 @@ Also Requires [Pehkui](https://www.curseforge.com/minecraft/mc-mods/pehkui)
 
 <h2>Titan</h2>
 <p>Descendants of an ancient species of humanoid, posses great powers when in your true form.</p>
-<p>🟢 Bid Muscles: Deal 2x As Much Damage When In Titan form.</p>
+<p>🟢 Big Muscles: Deal 2x As Much Damage When In Titan form.</p>
 <p>🟢</p>
 <p>🔴</p>
 <p>🔴</p>
