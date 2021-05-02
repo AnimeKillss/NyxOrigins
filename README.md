@@ -19,6 +19,7 @@ Also Requires [Pehkui](https://www.curseforge.com/minecraft/mc-mods/pehkui)
 <p>🔴</p>
 
 <h2>Solarian</h2>
+<p>Born from the energy of destruction, (...)</p>
 <p>🟢</p>
 <p>🟢</p>
 <p>🔴</p>
