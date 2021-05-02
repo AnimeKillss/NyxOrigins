@@ -16,6 +16,12 @@
   
   "power.originsplus.titan_transform.name": "Transformation",
   "power.originsplus.titan_transform.description": "Transform from Human to Titan and gain powerful abilties."
+  
+  "power.originsplus.passive_healing.name": "Mega heal",
+  "power.originsplus.passive_healing.description": "You heal when in titan mode and even when not titan, you get 1.5x Regen, stops when hunger starts hurting not at 3 bars."
+  
+  "power.originsplus.titan_mode_buffs.name": "Titanic",
+  "power.originsplus.titan_mode_buffs.description": "When in titan mode you get 3x Size, 1.5x Strength, 0.7 Speed, 200% Health, No Equipable Armor, 0.5x More Resistance."
 
   "origin.originsplus.stormling.name": "Stormling",
   "origin.originsplus.stormling.description": " You love the weather so much that you has learn to imatate it, you have came down from the sky to bless the earth."
